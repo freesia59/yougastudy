@@ -13,8 +13,7 @@ public class Man extends Person implements PersonBehavior {
 
     @Override
     public void talk() {
-//        super.talk();
-
+        super.talk();
     }
 
     void sayHello() throws Exception {
